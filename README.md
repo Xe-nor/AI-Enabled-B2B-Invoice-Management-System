@@ -20,6 +20,7 @@ The goal of this project is to develop a feature-rich Full-stack Invoice Managem
 - Create a Dynamic Web Project for the backend using Java Servlets and SQL with TDD methodology.
 - Import the provided SQL file [SQL FILE](https://drive.google.com/file/d/1Vi0j9hhTEItHdX6U4hCjgV1IU_HRoSne/view?usp=sharing) into MySQL or SQLyog to set up the Invoices database.
 - Implement API calls to establish communication between the frontend and backend functionalities.
+- Link to the ML MODEL [Order amount prediction](https://drive.google.com/drive/folders/1gTGnvoMuwQm1oKtcfxLG8RX1SDvPD276?usp=sharing)
 - Integrate FLASK, a Python web framework, to enable AI support and prediction for the "Predict" button.
 
 ### High-Level Requirements:
