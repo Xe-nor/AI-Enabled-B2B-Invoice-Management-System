@@ -18,7 +18,7 @@ The goal of this project is to develop a feature-rich Full-stack Invoice Managem
 ### Technical Guidelines:
 - Utilize ReactJS for building the frontend UI with a Test-Driven Development (TDD) approach to ensure code quality.
 - Create a Dynamic Web Project for the backend using Java Servlets and SQL with TDD methodology.
-- Import the provided SQL file (H2H_SQL_2023.sql) into MySQL or SQLyog to set up the Invoices database.
+- Import the provided SQL file [SQL FILE](https://drive.google.com/file/d/1Vi0j9hhTEItHdX6U4hCjgV1IU_HRoSne/view?usp=sharing) into MySQL or SQLyog to set up the Invoices database.
 - Implement API calls to establish communication between the frontend and backend functionalities.
 - Integrate FLASK, a Python web framework, to enable AI support and prediction for the "Predict" button.
 
